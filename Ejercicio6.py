@@ -3,6 +3,7 @@
 # debe crear un diccionario con las palabras y sus traducciones. Después pedirá una frase en español
 # y utilizará el diccionario para traducirla palabra a palabra. Si una palabra no está en el diccionario
 # debe dejarla sin traducir.
+
 # Pedimos al usuario que introduzca las palabras en formato "español:inglés" separadas por comas
 entrada = input("Introduce las palabras español:inglés separadas por comas: ")
 

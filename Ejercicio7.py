@@ -13,7 +13,7 @@ facturas= {}
 #Se crea un contador 
 CantidaCobro = 0
 
-#Se realiza un blucle
+#Se realiza un blucle while para realizar el menu
 while True:
     #Se le pregunta al usuario
     print("\n¿Qué deseas hacer?")
